@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="shortcut icon" type="icon" href="favicon1.ico">
+<title>
+logo
+</title>
+</head>
+<body>
+<div>
+<table border="1px" width="100%" style="text-align:center;color:blue">
+<tr>
+<td>
+<a href="www.youtube.com" target="if1">YOUTUBE</a>
+</td>
+<td>
+<a href="www.google.com" target="if1">SEARCH</a>
+</td>
+<td>
+<a href="www.abes.ac.in" target="if1">ABES</a>
+</td>
+</tr>
+</div>
+<div>
+<iframe src="" height="100px" width="50px" name="if1"/>
+</div>
+</body>
+</html>
